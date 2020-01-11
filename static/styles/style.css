@@ -1,0 +1,26 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.container {
+    width: 500px;   
+    border: 1px solid red;
+    margin: 0 auto;
+    text-align: center;
+}
+p {
+    background-color: yellow;
+    margin: 10px 0px 0px 0px;
+    height: 40px;
+}
+h1 {
+    margin: 0 auto;
+    font-size: 150px;
+    padding: 0px;
+}
+.top {
+    height: 0px;
+    margin-bottom: 0px;
+}
+h2 {
+    margin: 0px;
+}
